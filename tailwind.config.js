@@ -10,7 +10,11 @@ export default {
         'container': '1600px',
       },
       fontFamily: {
-        'DM Sans': ['DM Sans', 'DM Sans'],
+        'DMSans': ['DM Sans', 'DM Sans'],
+     },
+     colors:{
+      primary: "#262626",
+      MainColor: "#D8D8D8"
      }
     },
   },
